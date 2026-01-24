@@ -125,7 +125,7 @@ Reads are **micropaid**, enabling:
 
 ## 👤 Author
 
-**Your Name**  
+**SHIHAB AHMED**  
 - GitHub: https://github.com/shihab097
 - Twitter: https://x.com/Crypto0xygen
 - LinkedIn: https://linkedin.com/in/shihab-fardin-8537ab212
