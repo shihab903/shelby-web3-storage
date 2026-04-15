@@ -35,7 +35,7 @@ and incentive-compatible auditing**, enabling production-scale decentralized sto
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture 
 
 Shelby consists of four main layers:### Key Components
 - **Client SDK** – Uploads, reads, payment channels
